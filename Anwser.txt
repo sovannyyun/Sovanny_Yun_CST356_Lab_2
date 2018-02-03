@@ -1,0 +1,43 @@
+Exercise 1
+1. DONE
+2. DONE
+3. DONE
+4. DONE
+5. a. Application Name --> Changed
+   b. DONE
+   c. My APS.NET Application --> Changed ASP.NET Application
+   d. @DateTime 
+   e. Web Server
+6. Changed were made successfully and program compiled  
+
+
+Exercise 2
+1. DONE
+2. DONE - Static => Singleton Pattern: Strictly access
+3. DONE
+4. DONE
+5. DONE
+6. 	@Html is the inline expression
+	The model defined in the very top of the view file using @model tag
+7. DONE
+8. Yes, because the footer is part of the ShareLayout and both Homepage and Userpage uses the same layout
+9. "Back To List" link is the ActionLink that currently does not have the C# implementation with the feature to jump back to    homepage.  
+
+Exercise 3
+1. DONE
+2. DONE
+3. At the very top of the view file, using @model tag
+4. DONE
+5. DONE
+6. DONE
+7. DONE
+
+Exercise 4
+1. DateOfBirth got generated automatically using the default value 1/1/0001
+2. Popup warning spcifying that the field is invalid    // [Required]
+3. DONE
+4. DONE
+5. DONE
+
+Exercise 5
+SKIPPED
